@@ -63,7 +63,7 @@ class Scheduler:
     - 优雅退出
     """
     
-    def __init__(self, schedule_time: str = "18:00"):
+    def __init__(self, schedule_time: str = "19:00"):
         """
         初始化调度器
         
